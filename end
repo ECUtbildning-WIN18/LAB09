@@ -1,0 +1,56 @@
+[33mcommit 747a8c7583ace2f0cd2ab58afa1d4de3bc73890d[m[33m ([m[1;36mHEAD -> [m[1;32mdevelop[m[33m, [m[1;31morigin/develop[m[33m)[m
+Merge: 9ce1d6e 1f2ec4a
+Author: Stefan Lindahl <stefan.lindahl87@gmail.com>
+Date:   Mon Sep 10 10:32:40 2018 +0200
+
+    Merge branch 'develop' of github.com:ECUtbildning-WIN18/LAB09 into develop
+
+[33mcommit 9ce1d6e5db2144e3dd51185d5a9b1f6d6fac51d4[m
+Merge: 83fecde 7c75ba8
+Author: Stefan Lindahl <stefan.lindahl87@gmail.com>
+Date:   Mon Sep 10 10:31:54 2018 +0200
+
+    Merge branch 'develop' of github.com:ECUtbildning-WIN18/LAB09 into develop
+
+[33mcommit 1f2ec4a18b3818ee2885449690041e153f261c25[m
+Merge: 6bb511f 7c75ba8
+Author: Ryan Cockram <ryan.cockram@ecutbildning.se>
+Date:   Mon Sep 10 10:31:51 2018 +0200
+
+    Merge branch 'develop' of github.com:ECUtbildning-WIN18/LAB09 into develop
+
+[33mcommit 83fecdee71361bc6184e727046ecc1f75532c3d4[m
+Author: Stefan Lindahl <stefan.lindahl87@gmail.com>
+Date:   Mon Sep 10 10:30:53 2018 +0200
+
+    Edit stallind.html
+
+[33mcommit 322d6d57f4df4c3d1d8cd1104f9ba9f5885b1abf[m
+Author: Stefan Lindahl <stefan.lindahl87@gmail.com>
+Date:   Mon Sep 10 10:30:23 2018 +0200
+
+    Added stallind.html
+
+[33mcommit 6bb511f2002a2bf79ae9f2ad747c927c01db7438[m
+Author: Ryan Cockram <ryan.cockram@ecutbildning.se>
+Date:   Mon Sep 10 10:29:48 2018 +0200
+
+    Added ryan's person file OuO
+
+[33mcommit 7c75ba8d4ee73c03a57a3dd5c266ae90780ba2fa[m
+Author: Viktor Ljungquist <viktor.ljungquist@live.se>
+Date:   Mon Sep 10 09:42:06 2018 +0200
+
+    Added 'For Sale!'
+
+[33mcommit d51ef71c3a3f39e171a30283aeefd9e09135f663[m
+Author: Robert Tublen <robert.tublen@junction7.se>
+Date:   Sun Sep 9 14:56:49 2018 +0200
+
+    Add index.html
+
+[33mcommit 4f74216141c43eef4debfab7ba1441de8f72c04e[m
+Author: Robert <robert.tublen@junction7.se>
+Date:   Sun Sep 9 14:45:43 2018 +0200
+
+    Initial commit
