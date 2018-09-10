@@ -1,1 +1,0 @@
-Viktor: Är det någon här?
